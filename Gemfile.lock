@@ -288,7 +288,6 @@ DEPENDENCIES
   factory_girl_rails (~> 4.9)
   grape (~> 1.0, >= 1.0.3)
   grape-entity
-  grape-swagger
   grape-swagger-entity
   grape-swagger-rails
   grape-swagger-representable

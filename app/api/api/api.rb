@@ -23,6 +23,6 @@ module Api
     mount V1::ProductApi
     mount V1::UserApi
 
-    add_swagger_documentation mount_path: '/swagger_doc'
+    add_swagger_documentation
   end
 end

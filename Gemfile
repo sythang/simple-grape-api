@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'grape', '~> 1.0', '>= 1.0.3'
 gem 'grape-entity'
-gem 'grape-swagger'
+# gem 'grape-swagger'
 gem 'grape-swagger-rails'
 gem 'grape-swagger-entity'
 gem 'grape-swagger-representable'
