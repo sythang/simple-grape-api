@@ -11,7 +11,7 @@ default: &default
 
 development:
   <<: *default
-  database: gofix_development
+  database: grape_development
 test:
   <<: *default
   database: gofix_test
